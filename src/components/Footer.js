@@ -3,7 +3,9 @@ import React from "react";
 function Footer () {
     return( 
     <div>
-        <h1>Footer Here</h1>
+       <footer className="navbar fixed-bottom bg-info">
+       Static Footer Here
+       </footer>
     </div>
     )
    
