@@ -5,9 +5,17 @@ class Content extends Component {
         return (
             <div className ='content'>
             Sit vero corporis id et laborum repellendus omnis nobis. Est amet tempore. Aliquid laborum vero officiis earum neque.
+            <br></br>
+
             Sit vero corporis id et laborum repellendus omnis nobis. Est amet tempore. Aliquid laborum vero officiis earum neque.
+            <br></br>
+
             Sit vero corporis id et laborum repellendus omnis nobis. Est amet tempore. Aliquid laborum vero officiis earum neque.
+            <br></br>
+
             Sit vero corporis id et laborum repellendus omnis nobis. Est amet tempore. Aliquid laborum vero officiis earum neque.
+            <br></br>
+
             Sit vero corporis id et laborum repellendus omnis nobis. Est amet tempore. Aliquid laborum vero officiis earum neque.
             Sit vero corporis id et laborum repellendus omnis nobis. Est amet tempore. Aliquid laborum vero officiis earum neque.
             Sit vero corporis id et laborum repellendus omnis nobis. Est amet tempore. Aliquid laborum vero officiis earum neque.
