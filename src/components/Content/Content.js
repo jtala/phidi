@@ -12,12 +12,12 @@ class Content extends Component {
     render (){
         return (
             <div className ='content'>
-                <div className="container">
+              {/*   <div className="container">
                 <div className="col-md-12">
-                    <img src={Logo} width='100%' padding='20px'></img>
+                    <img src={Logo} width='100%' padding='20px' height='200px'></img>
                         <br></br>
                         </div>
-                </div>
+                </div> */}
                 <div className="container">
                     <div className='row'>
                         <div className="col-md-4">
